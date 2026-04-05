@@ -104,6 +104,3 @@ tests/
   test_api.py
 ```
 
-## License
-
-Sample project for evaluation; use and modify as needed.
